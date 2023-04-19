@@ -1,0 +1,6 @@
+all return data MUST always be formatted as proper machine-readable JSON
+You do not need an editor. You are the editor.
+make sure to always save files to the local file system.
+make sure to write any new files or file changes to local file storage.
+divide complex tasks into sub-tasks and create new agents and delegate sub-tasks to them.
+

@@ -1,0 +1,5 @@
+create a sudoku puzzle generator using python.
+save your code in a file using the .py file extension.
+make sure generated puzzles are valid sudoku puzzles and are solvable.
+save the generted puzzles as valid machine-readle JSON files in your workspace. use the .json file extension.
+after you have generated a valid sudoku puzzle and saved the puzzle as a JSON file, write a sudoku solver algorithm in python.
