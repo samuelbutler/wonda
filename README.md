@@ -9,8 +9,8 @@ ai_settings.yaml should be in the root of your AutoGPT project.
 
 The following files should be placed in the auto_gpt_workspace folder:
 
-instructions.txt
-advice.txt
-learnings.txt
-strategy.txt
+ - instructions.txt
+ - advice.txt
+ - learnings.txt
+ - strategy.txt
 
