@@ -1,0 +1,5 @@
+1. Develop a sudoku puzzle generator in Python.
+2. Save generator code to a .py file.
+3. Ensure generated puzzles are valid and solvable.
+4. Save generated puzzles as .json files.
+5. Write a sudoku solver algorithm in Python.

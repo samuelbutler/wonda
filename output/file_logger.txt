@@ -1,0 +1,5 @@
+File Operation Logger write: strategy.txt
+write: sudoku_generator.py
+write: sudoku_puzzle.json
+write: sudoku_solver.py
+append: sudoku_solver.py
